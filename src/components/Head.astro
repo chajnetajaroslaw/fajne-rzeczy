@@ -16,7 +16,7 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/svg+xml" href="/fajne-rzeczy/favicon.svg" />
 <link
   rel="icon"
   href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>"
@@ -26,14 +26,14 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <!-- Font preloads -->
 <link
   rel="preload"
-  href="/fonts/geist.woff2"
+  href="/fajne-rzeczy/fonts/geist.woff2"
   as="font"
   type="font/woff2"
   crossorigin
 />
 <link
   rel="preload"
-  href="/fonts/geist-mono.woff2"
+  href="/fajne-rzeczy/fonts/geist-mono.woff2"
   as="font"
   type="font/woff2"
   crossorigin
@@ -62,7 +62,7 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
 <!-- PageFind -->
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<link href="/fajne-rzeczy/pagefind/pagefind-ui.css" rel="stylesheet" />
 <script is:inline src="/pagefind/pagefind-ui.js">
   import { Image, Picture } from "astro:assets";
   import { Code, Debug } from "astro:components";
