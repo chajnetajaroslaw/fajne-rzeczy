@@ -8,6 +8,7 @@ import pagefind from "astro-pagefind";
 // https://astro.build/config
 export default defineConfig({
   site: "https://chajnetajaroslaw.github.io/fajne-rzeczy",
+  base: "/fajne-rzeczy",
   integrations: [tailwind(), sitemap(), mdx(), pagefind()],
   markdown: {
     shikiConfig: {
