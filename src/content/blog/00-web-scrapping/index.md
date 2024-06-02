@@ -1,11 +1,7 @@
 ---
 title: "Web Scrapping"
 description: "Pająki 🕷️. I zabieranie danych ze stron. (Gratis automatyzacja)"
-date: "2024-05-09"
----
-
-import Callout from "@/components/Callout.astro";
-
+date: "2024-06-01"
 ---
 
 ## Metody Programistyczne
