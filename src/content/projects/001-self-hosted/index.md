@@ -1,12 +1,12 @@
 ---
-title: "Astro Micro"
+title: "Self Hosted 🐳"
 description: "Astro Micro is an accessible and lightweight blog."
 date: "2024-05-26"
 demoURL: "https://astro-micro.vercel.app"
 repoURL: "https://github.com/trevortylerlee/astro-micro"
 ---
 
-![Astro Micro](/astro-micro.jpg)
+![Astro Micro](/fajne-rzeczy/astro-micro.jpg)
 
 Astro Micro is an accessible theme for Astro. It's a fork of Mark Horn's popular theme Astro Nano. Like Nano, Micro comes with zero frameworks installed.
 
