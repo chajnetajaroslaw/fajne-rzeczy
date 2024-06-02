@@ -1,6 +1,6 @@
 ---
 title: "Self Hosted 🐳"
-description: "Astro Micro is an accessible and lightweight blog."
+description: "Gotowe aplikacje, kontenery i usprawnienia dla Twojego życia."
 date: "2024-05-26"
 demoURL: "https://astro-micro.vercel.app"
 repoURL: "https://github.com/trevortylerlee/astro-micro"

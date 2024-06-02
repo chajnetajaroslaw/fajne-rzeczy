@@ -1,7 +1,7 @@
 ---
 title: "Repozytoria 📚"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "2024-03-26"
+description: "Ciekawe repozytoria i aplikacje znalezione na githubie."
+date: "2024-05-22"
 demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
