@@ -6,6 +6,27 @@ demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
 
+## Narzędzia IT / SysAdmin
+
+- [IT TOOLS](https://it-tools.tech/) - Ogromny zestaw przydatnych narzędzi: konwertery, pickery, parsery, walidatory kryptografia i wiele więcej.
+
+## Systemy / PC
+
+### Narzędzia
+
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - Program do skanowania dysków i znajdowania dużych plików, lepszy od WinDirStat, pozwala zapisać kopię binarną struktury plików, fajnie wygląda jak skanuje dysk, działa portable.
+- **DLCBoot** - znajdź sobie w google albo dopisz .com do nazwy, ogromny zestaw narzędzi diagnostyczno-naprawczych, możliwość bootowania własnych iso z usb, następca Hiren's BootCD, jedyny pendrive którego potrzebujesz.
+
+
+## Notatki
+
+- [Obsidian](https://obsidian.md/) - OpenSource'owa baza wiedzy w markdown, rozbudowany ekosystem pluginów i aktywna społeczność. Ulubiony notatnik wielu osób. 
+- [Notion](https://www.notion.so/) - Cloudowa aplikacja do notatek z dużymi możliwościami za darmo, pozwala tworzyć bazy danych, pracować w zespole, hostować statyczne strony www i wiele więcej
+
+## Multimedia
+
+- [YouTube Music Github](https://github.com/th-ch/youtube-music) - Autorska aplikacja do obsługi youtube music. **Bez reklam** wiele wtyczek, działa jak natywna aplikacja typu Spotify. 
+
 ## Edytory Grafiki
 
 *Kiedy byłem mały rodzice starszyli mnie że jak będę niegrzeczny to przyjdzie Gimp i mnie zabierze, teraz jestem duży i od tamtego czasu Gimp właściwie się nie zmienił.*
@@ -26,9 +47,5 @@ Jest jeden słuszny, darmowy, przeglądarkowy edytor grafiki - Photoshop. Tylko 
 Kiedy miałeś 5 lat rodzice mówili że ładnie rysujesz, jednak rzeczywistość boleśnie to zweryfikowała przy pierwszej próbie wykonania samodzielnej grafiki. Jeśli potrzebujesz zrobić coś ładnego a nie masz talentu z pomocą przyjdą te narzędzia:
 - [Canva](https://canva.com/) - Prosty przeglądarkowy kreator grafik, **duża biblioteka darmowych szablonów i assetów**.
 - [Adobe Express](https://www.adobe.com/express/) - Mniejsze możliwości w darmowej wersji, posiada dużo ciekawych narzędzi i wsparcie generatywnej **sztucznej inteligencji**.
-
-## Narzędzia IT / SysAdmin
-
-- [IT TOOLS](https://it-tools.tech/) - Ogromny zestaw przydatnych narzędzi: konwertery, pickery, parsery, walidatory kryptografia i wiele więcej.
 
 
