@@ -8,7 +8,7 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 
 ## Programowanie
 
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Repozytorium to **ogromna kolekcja darmowych książek do nauki programowania** podzielonych według języków, dostępna jest również [wersja polskojęzyczna](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pl.md) z mniejszą biblioteką dostępnych pozycji.
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Repozytorium to **ogromna kolekcja darmowych książek do nauki programowania** podzielonych [według języków](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) oraz [tematów](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md), dostępna jest również [wersja polskojęzyczna](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pl.md) z mniejszą biblioteką dostępnych pozycji.
 
 ## Sysadmin / Serwery / Zarządzanie
 

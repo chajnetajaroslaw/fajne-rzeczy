@@ -1,5 +1,5 @@
 ---
-title: "🐳 Instalacja Docker "
+title: "🐳 Instalacja Docker + GUI"
 description: "Zacznij używać kontenerów już dziś. Instalacja Docker i zarządzanie z GUI"
 date: "2024-05-22"
 demoURL: "https://astro-nano-demo.vercel.app"
