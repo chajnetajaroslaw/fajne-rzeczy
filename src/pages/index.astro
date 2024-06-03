@@ -17,8 +17,8 @@ const projects: CollectionEntry<"kolekcje">[] = (
 )
   .filter((project) => !project.data.draft)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE)
-  .reverse();
+  .slice(0, SITE.NUM_PROJECTS_ON_HOMEPAGE);
+  //.reverse();
 ---
 
 <Layout title={HOME.TITLE} description={HOME.DESCRIPTION}>
