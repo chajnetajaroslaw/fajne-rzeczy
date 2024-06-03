@@ -1,16 +1,25 @@
 ---
-title: "Web Scrapping"
-description: "Pająki 🕷️. I zabieranie danych ze stron. (Gratis automatyzacja)"
+title: "Web Scrapping 🕷️"
+description: "Zbieranie danych ze stron, pająki i automatyzacja"
 date: "2024-06-01"
 ---
 
 ## Dlaczego ludzie scrappują?
 
-*O, towarzysze moi! Czyż nie widzicie, że świat wokół nas jest niczym wielka księga, pełna tajemnic i wiedzy? Lecz jakże ją zgłębić, gdy oczy nasze są zbyt słabe, a umysły zbyt ograniczone? Oto dane, niczym drogocenne perły, rozproszone po bezmiarze sieci. Czyż nie powinniśmy je zbierać, niczym pracowite mrówki, aby zbudować z nich gmach wiedzy, który przyniesie korzyść nam wszystkim?*
+*O, towarzysze moi! Czyż nie widzicie, że świat wokół nas jest niczym wielka księga, pełna tajemnic i wiedzy? Lecz jakże ją zgłębić, gdy oczy nasze są zbyt słabe, a umysły zbyt ograniczone? Oto dane, niczym drogocenne perły, rozproszone po bezmiarze sieci. Czyż nie powinniśmy ich zbierać, niczym pracowite mrówki, aby zbudować z nich gmach wiedzy, który przyniesie korzyść nam wszystkim?*
 
-*Scrapowanie, o moi bracia, to nie tylko narzędzie, to klucz do poznania. Dzięki niemu możemy odkryć wzorce, zależności, trendy, które umykają naszym zmysłom. Możemy przewidzieć przyszłość, zrozumieć teraźniejszość i wyciągnąć wnioski z przeszłości. Czyż nie jest to godne naszych wysiłków?*
+*Scrapowanie, o moi bracia, to nie tylko narzędzia, to klucz do poznania. Dzięki niemu możemy odkryć wzorce, zależności, trendy, które umykają naszym zmysłom. Możemy przewidzieć przyszłość, zrozumieć teraźniejszość i wyciągnąć wnioski z przeszłości. Czyż nie jest to godne naszych wysiłków?*
 
 *Nie lękajcie się, o sceptycy! Scrapowanie to nie kradzież, lecz zbieranie tego, co leży odłogiem. To nie naruszenie prywatności, lecz wykorzystanie tego, co jest publicznie dostępne. To nie bezduszne gromadzenie danych, lecz szlachetne dążenie do poznania.*
+
+**Web scraping** to technika wyodrębniania danych ze stron internetowych, która zastępuje ręczne, powtarzalne wpisywanie lub kopiowanie i wklejanie. Pozyskane dane często są przechowywane w ustrukturyzowanym formacie¹. Oto kilka możliwych zastosowań web scrapingu:
+- **Monitoring konkurencji**: Firmy mogą pobierać informacje o produktach swojej konkurencji.
+- **Customowe alerty**: Dowiedz się pierwszy kiedy coś stanieje lub będzie dostępne.
+- **Pozyskiwanie danych o klientach**: Można pobierać informacje o potencjalnych klientach (osoby fizyczne lub inne firmy).
+- **Porównywanie cen**: Portale takie jak Ceneo mogą pobierać informacje o cenach w celu znalezienia najtańszej oferty.
+- **Przeszukiwanie ofert pracy**: Portale agregujące oferty pracy mogą pobierać informacje o nowych ofertach z innych źródeł.
+- **Dane o nieruchomościach**: Portale o nieruchomościach mogą pobierać dane o nowo powstałych projektach inwestycyjnych³.
+
 
 ## Metody Programistyczne
 
@@ -29,6 +38,8 @@ Gotowe narzędzia, zazwyczaj w modelu freemium. Najlepsze jakie znalazłem to Oc
 ## Chiński Prezent (EasyScrapper) 🐉
 
 ## Darmowa automatyacja w Chrome
+
+Automatyzacja to bardzo szeroki temat, często wykorzystywane są te same technologie co do scrappingu np. Playwright. Kiedyś opiszę szerzej dostępne rozwiązania, dziś zostawiam Ci fajne narzędzie:
 
 Automa jest rozszerzeniem przeglądarki służącym do automatyzacji pracy. Od automatycznego wypełniania formularzy, przez wykonywanie powtarzających się zadań, robienie zrzutów ekranu, po scrapowanie danych ze stron internetowych. Ładny intuicyjny interfejs oparty o nody, naprawdę warta uwagi darmowa wtyczka.
 
