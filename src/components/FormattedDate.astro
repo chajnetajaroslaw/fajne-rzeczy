@@ -3,12 +3,17 @@ interface Props {
   date: Date;
 }
 
-const { date } = Astro.props;
+let { date } = Astro.props;
+if (typeof date === 'string') {
+  date = new Date(date);
+}
+
+
 ---
 
 <time datetime={date.toISOString()}>
   {
-    date.toLocaleDateString("en-US", {
+    date.toLocaleDateString("pl-PL", {
       month: "long",
       day: "2-digit",
       year: "numeric",

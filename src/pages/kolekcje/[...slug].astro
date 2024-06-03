@@ -9,7 +9,7 @@ import Link from "@components/Link.astro";
 import TableOfContents from "@components/TableOfContents.astro";
 
 export async function getStaticPaths() {
-  const projects = (await getCollection("projects"))
+  const projects = (await getCollection("kolekcje"))
     .filter((post) => !post.data.draft)
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return projects.map((project) => ({
@@ -17,7 +17,7 @@ export async function getStaticPaths() {
     props: project,
   }));
 }
-type Props = CollectionEntry<"projects">;
+type Props = CollectionEntry<"kolekcje">;
 
 const project = Astro.props;
 const { Content, headings } = await project.render();
@@ -26,7 +26,7 @@ const { Content, headings } = await project.render();
 <Layout title={project.data.title} description={project.data.description}>
   <Container>
     <div class="animate">
-      <BackToPrevious href="/fajne-rzeczy/projects">Back to projects</BackToPrevious>
+      <BackToPrevious href="/fajne-rzeczy/kolekcje">Back to projects</BackToPrevious>
     </div>
     <div class="animate my-10 space-y-1">
       <div class="flex items-center gap-1.5">
