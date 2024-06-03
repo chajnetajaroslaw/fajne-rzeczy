@@ -6,7 +6,7 @@ date: "2024-06-01"
 
 ## Dryfując w oceanie repozytoriów
 
-*Pod osłoną nocy wypływam na bezkresne wody trendujących repozytoriów Github moim celem, połów pereł - zobacz co udało mi się złowić.*
+*Pod osłoną nocy wypływam na bezkresne wody trendujących repozytoriów Github moim celem - połów pereł, zobacz co ciekawego udało mi się złowić.*
 
 Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram się aktualizować raz w miesiącu.
 
