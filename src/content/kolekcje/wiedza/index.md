@@ -1,10 +1,14 @@
 ---
 title: "🧠 Poradniki / Książki / Wiedza"
 description: "Uwaga nie wchodzić, grozi rozrostem tkanki mózgowej."
-date: "2024-05-20"
+date: "2024-06-02"
 demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
+
+## Programowanie
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Repozytorium to **ogromna kolekcja darmowych książek do nauki programowania** podzielonych według języków, dostępna jest również [wersja polskojęzyczna](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pl.md) z mniejszą biblioteką dostępnych pozycji.
 
 ## Sysadmin / Serwery / Zarządzanie
 
