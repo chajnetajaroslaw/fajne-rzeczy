@@ -32,10 +32,17 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 ## Pliki
 
+### Hostowanie
+- [NextCloud]() - Najlepsza darmowa usługa chmury plików, mnogość funckji i wtyczek pozwoli Ci dostosować ją do Twoich potrzeb.
+- [AnonUpload](https://github.com/Supernova3339/anonupload) - Prosty skrypt do anonimowego uploadowania i hostowania plików działający 100% w PHP. 
+
 ### Synchronizacja
 - [Syncthing](https://syncthing.net/) - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp. 
 
 ## Sysadmin / zarządzanie
+
+- [Ansible](https://www.ansible.com/) - Opensource'owe oprogramowanie służące do automatyzacji wdrażania, konfiguracji i zarządzania. Niski próg wejścia, duże community jak i dostępność mnóstwa rozszerzeń sprawia że Ansible to obowiązkowa umiejętność i narzędzie w Twoim zestawie.
+- [Kestra](https://kestra.io/) - Rozbudowane narzędzie do tworzenia złożonych deklaratywnych automatyzacji. Możesz dzięki niemu tworzyć zaawansowane przepływy pracy i zarządzać ich harmonogramem. Przykładowe zastosowania: **uruchamianie skryptów ansible, python, aktualizowanie i zarządzanie kontenerami, automatyzowanie pracy serwerów.**
 
 ### Konteneryzacja:
 - [Dockge](https://github.com/louislam/dockge) - Darmowy panel do zarządzania stackami docker-compose ze świetnym UI. 

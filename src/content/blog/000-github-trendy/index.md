@@ -12,7 +12,7 @@ Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram 
 
 (*PS. aplikacje AI wrzucam w osobnej sekcji bo jest ich bardzo dużo* 🤮)
 
-## 2024 Maj
+## Maj 2024
 
 - [MAS (Microsoft Activation Toolkit)](https://github.com/massgravel/Microsoft-Activation-Scripts) - Zestaw otwartoźródłowych skryptów aktywacyjnych dla systemów Microsoft Windows oraz aplikacji z rodziny Microsoft Office. Do celów testowych 🤡
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Zestaw narzędzi do pracy z plikami PDF przeznaczony do samo-hostowania. Zawiera wiele funkcji których nie znajdziecie w darmowym Acrobacie (a nawet takie których nie znajdziecie w płatnym 😉)
