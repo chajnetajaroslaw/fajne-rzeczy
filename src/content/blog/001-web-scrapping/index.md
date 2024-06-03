@@ -37,6 +37,8 @@ Gotowe narzędzia, zazwyczaj w modelu freemium. Najlepsze jakie znalazłem to Oc
 
 ## Chiński Prezent (EasyScrapper) 🐉
 
+Zawsze uważałem że za darmo to uczciwa cena, darmowy open-source'owy wizualny scrapper od przyjaciół z Chin.Posiada angielską wersję językową i dokumentację na github. Interfejs przypomina wspomnianego Octoparse natomiast w przeciwieństwie do niego jest całkowicie darmowy, pozwala również eksportować i uruchamiać kod zdalnie (np. na VPS).
+
 ## Darmowa automatyacja w Chrome
 
 Automatyzacja to bardzo szeroki temat, często wykorzystywane są te same technologie co do scrappingu np. Playwright. Kiedyś opiszę szerzej dostępne rozwiązania, dziś zostawiam Ci fajne narzędzie:
@@ -44,7 +46,11 @@ Automatyzacja to bardzo szeroki temat, często wykorzystywane są te same techno
 Automa jest rozszerzeniem przeglądarki służącym do automatyzacji pracy. Od automatycznego wypełniania formularzy, przez wykonywanie powtarzających się zadań, robienie zrzutów ekranu, po scrapowanie danych ze stron internetowych. Ładny intuicyjny interfejs oparty o nody, naprawdę warta uwagi darmowa wtyczka.
 
 [Pobierz Automa dla Chrome](https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
+
 [Pobierz Automa dla Firefox](https://addons.mozilla.org/en-US/firefox/addon/automa/)
+
+
+
 
 
 **Jak to jest scrappować? Dobrze, czy nie dobrze?**

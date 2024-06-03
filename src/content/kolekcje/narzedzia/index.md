@@ -8,6 +8,8 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 
 ## Edytory Grafiki
 
+*Kiedy byłem mały rodzice starszyli mnie że jak będę niegrzeczny to przyjdzie Gimp i mnie zabierze, teraz jestem duży i od tamtego czasu Gimp właściwie się nie zmienił.*
+
 ### Darmowy Photoshop w przeglądarce
 
 Jest jeden słuszny, darmowy, przeglądarkowy edytor grafiki - Photoshop. Tylko że nazywa się [Photopea](Photopea).
