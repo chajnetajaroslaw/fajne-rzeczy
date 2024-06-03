@@ -53,8 +53,3 @@ Automa jest rozszerzeniem przeglądarki służącym do automatyzacji pracy. Od *
 
 ![Automa](/fajne-rzeczy/blog/automa.png)
 
----
-
-**Jak to jest scrappować? Dobrze, czy nie dobrze?**
-
-*Moim zdaniem to nie ma tak, że dobrze albo że nie dobrze. Gdybym miał powiedzieć, co cenię w scrappowaniu najbardziej, powiedziałbym, że dane. Ekhm… Dane, które można wydobyć z witryn internetowych. Kiedy sobie nie radzisz, te dane są niczym pomocna dłoń, i co ciekawe, to właśnie przypadkowe spotkania z interesującymi danymi wpływają na nasze projekty. Chodzi o to, że kiedy wyznaje się pewne wartości, nawet pozornie uniwersalne, bywa, że nie znajduje się zrozumienia, które by tak rzec, które pomaga się nam rozwijać. Ja miałem szczęście, by tak rzec, ponieważ je znalazłem. I dziękuję kodowi. Dziękuję mu, kod to struktura, kod to analiza, kod to automatyzacja. Wielu ludzi pyta mnie o to samo, ale jak ty to robisz?, skąd czerpiesz tę radość? A ja odpowiadam, że to proste, to umiłowanie kodu, to właśnie ono sprawia, że dzisiaj na przykład buduję scrapery, a jutro… kto wie, dlaczego by nie, stworzę kolejny bot do zbierania… znaczy… danych.* 🤖
