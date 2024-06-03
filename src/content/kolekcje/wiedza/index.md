@@ -8,7 +8,7 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 
 ## Moje poradniki
 
-Nie ma ich zbyt wiele, więcej powstanie w swoim czasie, [przejdź do nich tutaj](../poradniki/), albo wybierz je z górnego menu.
+Nie ma ich jeszcze zbyt wiele, więcej powstanie w swoim czasie, [przejdź do nich tutaj](../poradniki/), albo wybierz je z górnego menu.
 
 ## Programowanie
 
