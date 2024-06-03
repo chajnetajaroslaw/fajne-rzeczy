@@ -7,6 +7,7 @@ import { readingTime } from "@lib/utils";
 import BackToPrevious from "@components/BackToPrevious.astro";
 import Link from "@components/Link.astro";
 import TableOfContents from "@components/TableOfContents.astro";
+import Giscus from "@components/Giscus.astro";
 
 export async function getStaticPaths() {
   const projects = (await getCollection("kolekcje"))
@@ -26,7 +27,7 @@ const { Content, headings } = await project.render();
 <Layout title={project.data.title} description={project.data.description}>
   <Container>
     <div class="animate">
-      <BackToPrevious href="/fajne-rzeczy/kolekcje">Back to projects</BackToPrevious>
+      <BackToPrevious href="/fajne-rzeczy/kolekcje">Wróć do kolekcji</BackToPrevious>
     </div>
     <div class="animate my-10 space-y-1">
       <div class="flex items-center gap-1.5">
@@ -41,7 +42,7 @@ const { Content, headings } = await project.render();
       <h1 class="text-3xl font-semibold text-black dark:text-white">
         {project.data.title}
       </h1>
-      {
+      <!-- {
         (project.data.demoURL || project.data.repoURL) && (
           <nav class="flex gap-1">
             {project.data.demoURL && (
@@ -57,11 +58,14 @@ const { Content, headings } = await project.render();
             )}
           </nav>
         )
-      }
+      } --> 
     </div>
     <TableOfContents headings={headings} />
     <article class="animate">
       <Content />
+      <div class="mt-24">
+        <Giscus />
+      </div>
     </article>
   </Container>
 </Layout>
