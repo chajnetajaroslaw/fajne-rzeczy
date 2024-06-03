@@ -1,7 +1,7 @@
 ---
-title: "Web Scrapping 🕷️"
+title: "🕷️ Web Scrapping"
 description: "Zbieranie danych ze stron, pająki i automatyzacja"
-date: "2024-06-01"
+date: "2024-05-31"
 ---
 
 ## Dlaczego ludzie scrappują?

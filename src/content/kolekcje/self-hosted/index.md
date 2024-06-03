@@ -30,6 +30,11 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 - NextCloud Photos - Usługa do zdjęć wbudowana w system hostingu plików, posiada wiele funkcji. Jeśli masz już NextClouda lub potrzebujesz więcej funkcji niż tylko udostępnianie zdjęć warto rozważyć tę opcję.
 - [Lista darmowych bibliotek foto na Github](https://github.com/meichthys/foss_photo_libraries) - Całą resztę **ze szczegółowym porównaniem funkcjonalności** znajdziesz tu.
 
+## Pliki
+
+### Synchronizacja
+- syncthing - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp.
+
 ## Sysadmin / zarządzanie
 
 ### Konteneryzacja:
