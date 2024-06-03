@@ -33,7 +33,7 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 ## Pliki
 
 ### Synchronizacja
-- [syncthing](https://github.com/syncthing/syncthing) - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp.
+- [Syncthing](https://syncthing.net/) - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp. 
 
 ## Sysadmin / zarządzanie
 

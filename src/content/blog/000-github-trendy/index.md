@@ -23,4 +23,5 @@ Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram 
 ### AI (Deep Learning):
 - [Fabric](https://github.com/danielmiessler/fabric) - Framework do operacji tekstowych z użyciem LLM, tak naprawdę to spora baza niezłych promptów które można [wyciągnąć sobie bezpośrednio](https://github.com/danielmiessler/fabric/tree/main/patterns) z repozytorium.
 - [PhiData](https://github.com/phidatahq/phidata) - Framework do budowy Agentów AI w oparciu o dowolny LLM, pozwala wyposażyć je w pamięć długotrwałą, wiedzę kontekstową, wyzwalanie funkcji itd. Oparty o język Python (podobne narzędzia bez kodowania to LangFlow i Flowise)
+- [Scrapegraph-AI](https://github.com/VinciGit00/Scrapegraph-ai) - Pythonowy Scrapper wyciągający dane na podstawie zapytań w języku naturalnym. (np. "wyciągnij ze strony wszystkie oferty pracy").
 
