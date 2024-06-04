@@ -6,9 +6,9 @@ demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
 
-## Moje poradniki
+## Wstęp
 
-Nie ma ich jeszcze zbyt wiele, więcej powstanie w swoim czasie, [przejdź do nich tutaj](../poradniki/), albo wybierz je z górnego menu.
+Poniżej przedstawiam wam najciekawsze darmowe książki, poradniki i wideoporadniki z różnych dziedzin związanych z IT i programowaniem, na stronie opublikowałem też kilka autorskich [przejdź do nich tutaj](../../poradniki/), albo wybierz je z górnego menu.
 
 ## Programowanie
 
