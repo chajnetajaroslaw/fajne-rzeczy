@@ -6,6 +6,12 @@ demoURL: "https://astro-micro.vercel.app"
 repoURL: "https://github.com/trevortylerlee/astro-micro"
 ---
 
+## Wstęp
+
+Poniżej przedstawiam wam najciekawsze aplikacje do samo-hostowania. Większość z nich wymaga działającego DockerEngine, [jak go najszybciej zainstalować, pisałem tu.](../poradniki/zainstaluj-docker)
+
+---
+
 ## 📷 Galerie / Biblioteki zdjęć
 
 Rozwiązania alternatywne dla usług jak GooglePhotos
@@ -30,6 +36,8 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 - [NextCloud Photos (Memories)](https://github.com/nextcloud/photos) - Usługa do zdjęć wbudowana w system hostingu plików, posiada wiele funkcji. Jeśli masz już NextClouda lub potrzebujesz więcej funkcji niż tylko udostępnianie zdjęć warto rozważyć tę opcję.
 - [Lista darmowych bibliotek foto na Github](https://github.com/meichthys/foss_photo_libraries) - Całą resztę **ze szczegółowym porównaniem funkcjonalności** znajdziesz tu.
 
+---
+
 ## Pliki
 
 ### Hostowanie
@@ -38,6 +46,8 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 ### Synchronizacja
 - [Syncthing](https://syncthing.net/) - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp. 
+
+---
 
 ## Sysadmin / zarządzanie
 
