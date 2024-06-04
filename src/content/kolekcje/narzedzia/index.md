@@ -42,7 +42,7 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 ### Darmowy Photoshop w przeglądarce
 
 Jest jeden słuszny, darmowy, przeglądarkowy edytor grafiki - ~~Photoshop~~ [Photopea](https://www.photopea.com/).
-To aplikacja do edycji i przetwarzania obrazów rastrowych i wektorowych autorstwa czeskiego maga ~~programisty~~ **Ivana Kuckira**. To prawdziwe programistyczne arcydzieło **waży 4KB, działa offline** (wystarczy że raz odwiedzisz stronę), **otwiera formaty Adobe** a interfejs jest dziwnie znajomy. Posiada 90% funkcji photoshopa (według ostatnich badań IDZD) [Po prostu zacznij z niego korzystać](https://www.photopea.com/) - Tak wiem że Photopea ma na sidebarze reklamy, właśnie dzięki temu jest darmowa, uwolnienie się od reklam to koszt 5$ za miesiąc, najtańszy pakiet Adobe z PS i Lightroom bez promocji to ponad 13$ za miesiąc, nie zgadniesz jak nazywa się mój ulubiony edytor grafiki.
+To aplikacja do edycji i przetwarzania obrazów rastrowych i wektorowych autorstwa czeskiego maga ~~programisty~~ **Ivana Kuckira**. To prawdziwe programistyczne arcydzieło **waży 4KB, działa offline** (wystarczy że raz odwiedzisz stronę), **otwiera formaty Adobe** a interfejs jest dziwnie znajomy. Posiada **94.5%** funkcji photoshopa (według ostatnich badań IDZD) [Po prostu zacznij z niego korzystać](https://www.photopea.com/) - Tak wiem że Photopea ma na sidebarze reklamy, właśnie dzięki temu jest darmowa, uwolnienie się od reklam to koszt 5$ za miesiąc, najtańszy pakiet Adobe z PS i Lightroom bez promocji to ponad 13$ za miesiąc, nie zgadniesz jak nazywa się mój ulubiony edytor grafiki.
 
 ### Inne narzędzia
 
