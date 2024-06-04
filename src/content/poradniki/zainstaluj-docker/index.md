@@ -20,7 +20,9 @@ Jeśli chcesz uruchomić DockerEngine na swoim PC, możesz po prostu [pobrać Do
 
 ---
 
-## 1. Ustalenie IP hosta
+## Instalacja Docker w systemie linux
+
+### Ustalenie IP hosta
 
 Otwieramy terminal na naszej maszynie łącząc się przez SSH lub korzystając z fizycznego dostępu, najpierw sprawdźmy adres IP naszej maszyny i zanotujmy go.
 
@@ -30,7 +32,7 @@ ip a
 
 Jeśli maszyna uzyskuje adres dynamicznie przez DHCP warto [ustawić stały adres IP](https://porady-it.pl/linux/linux-ustawic-statyczny-adres-ip-poziomu-konsoli/)
 
-## 2. Uruchomienie skryptu
+### Uruchomienie skryptu
 
 Skrypt **install-docker.sh** zainstaluje wszystkie potrzebne komponenty, Docker Engine oraz dodatek do obsługi składni **docker-compose** pozwalającej na wygodne uruchamianie zestawów kontenerów.
 
@@ -62,7 +64,9 @@ docker --version
 
 jeśli instalacja przebiegła poprawnie wyświetli się wersja zainstalowanego silnika.
 
-## 3. Instalacja GUI
+---
+
+## Instalacja GUI
 
 Przed przystąpieniem do korzystania z interfejsu graficznego do zarządzania kontenerami gorąco zachęcam do zapoznania się z podstawami obsługi Dockera przez wiersz poleceń, pozwoli to zrozumieć zasady jego działania. Dla ułatwionego zarządzania uruchomionymi usługami zainstalujemy darmowy panel **Dockge** lub alternatywnie **Portainer Community Edition**
 

@@ -38,7 +38,7 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 ---
 
-## Pliki
+## 📂 Pliki
 
 ### Hostowanie
 - [NextCloud]() - Najlepsza darmowa usługa chmury plików, mnogość funckji i wtyczek pozwoli Ci dostosować ją do Twoich potrzeb.
@@ -49,7 +49,7 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 ---
 
-## Sysadmin / zarządzanie
+## 💻 Sysadmin / zarządzanie
 
 - [Ansible](https://www.ansible.com/) - Opensource'owe oprogramowanie służące do automatyzacji wdrażania, konfiguracji i zarządzania. Niski próg wejścia, duże community jak i dostępność mnóstwa rozszerzeń sprawia że Ansible to obowiązkowa umiejętność i narzędzie w Twoim zestawie.
 - [Kestra](https://kestra.io/) - Rozbudowane narzędzie do tworzenia złożonych deklaratywnych automatyzacji. Możesz dzięki niemu tworzyć zaawansowane przepływy pracy i zarządzać ich harmonogramem. Przykładowe zastosowania: **uruchamianie skryptów ansible, python, aktualizowanie i zarządzanie kontenerami, automatyzowanie pracy serwerów.**
