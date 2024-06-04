@@ -4,7 +4,7 @@ description: "Najciekawsze repozytoria wybrane spośród trendów społeczności
 date: "2024-06-01"
 ---
 
-## Dryfując w oceanie repozytoriów
+## W odmętach repozytoriów
 
 *Nurkując w odmętach trendujących repozytoriów Github, poszukiwałem pereł i ukrytych skarbów, tym co udało mi się wyłowić dzielę się z Wami.*
 
