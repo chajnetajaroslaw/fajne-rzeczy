@@ -8,7 +8,7 @@ repoURL: "https://github.com/trevortylerlee/astro-micro"
 
 ## Wstęp
 
-Poniżej przedstawiam wam najciekawsze aplikacje do samo-hostowania. Większość z nich wymaga działającego DockerEngine, [jak go najszybciej zainstalować, pisałem tu.](../poradniki/zainstaluj-docker)
+Poniżej przedstawiam wam najciekawsze aplikacje do samo-hostowania. Większość z nich wymaga działającego DockerEngine, [jak go najszybciej zainstalować, pisałem tu.](../../poradniki/zainstaluj-docker)
 
 ---
 

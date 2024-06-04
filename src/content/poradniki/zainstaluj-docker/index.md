@@ -10,7 +10,7 @@ repoURL: "https://github.com/markhorn-dev/astro-nano"
 
 W tym poradniku opiszę jak najszybciej zainstalować Docker na **czystym systemie** i zacząć korzystać z obrazów kontenerów. 
 
-Zakładam że masz dostęp do czystego systemu / maszyny wirtualnej / VPS ([o najtańszym serwerze VPS pisałem tu](../kolekcje/tanie-hostingi#najta%C5%84szy-serwer-vps)) z zainstalowanym Ubuntu lub Debianem. W celu instalacji dockera wykorzystamy skrypt **install-docker.sh** z [get.docker.com](https://get.docker.com/).
+Zakładam że masz dostęp do czystego systemu / maszyny wirtualnej / VPS ([o najtańszym serwerze VPS pisałem tu](../../kolekcje/tanie-hostingi#najta%C5%84szy-serwer-vps)) z zainstalowanym Ubuntu lub Debianem. W celu instalacji dockera wykorzystamy skrypt **install-docker.sh** z [get.docker.com](https://get.docker.com/).
 
 ![](/fajne-rzeczy/blog/docker.jpg)
 
