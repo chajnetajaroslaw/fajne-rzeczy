@@ -19,7 +19,7 @@ DONE
 - add note component
 - 404 page
 - rewrite 01 and 02
-- add prev/next buttons to blog
+- add prev/next buttons to wpisy
 - add copy button to code blocks (make optional?)
 - rewrite README
 - change photos for markdown syntax post

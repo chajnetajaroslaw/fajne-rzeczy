@@ -11,7 +11,7 @@ date: "2024-05-31"
 
 *Nie lękajcie się, o sceptycy! Scrapowanie to nie kradzież, lecz zbieranie tego, co leży odłogiem. To nie naruszenie prywatności, lecz wykorzystanie tego, co jest publicznie dostępne. To nie bezduszne gromadzenie danych, lecz szlachetne dążenie do poznania.*
 
-![](/fajne-rzeczy/blog/scrapping.jpg)
+![](/fajne-rzeczy/wpisy/scrapping.jpg)
 
 **Web scraping** to technika wyodrębniania danych ze stron internetowych, która zastępuje ręczne, powtarzalne wpisywanie lub kopiowanie i wklejanie. Pozyskane dane często są przechowywane w ustrukturyzowanym formacie¹. Oto kilka możliwych zastosowań web scrapingu:
 
@@ -51,5 +51,5 @@ Automa jest rozszerzeniem przeglądarki służącym do automatyzacji pracy. Od *
 [Pobierz Automa dla Firefox](https://addons.mozilla.org/en-US/firefox/addon/automa/)
 
 
-![Automa](/fajne-rzeczy/blog/automa.png)
+![Automa](/fajne-rzeczy/wpisy/automa.png)
 

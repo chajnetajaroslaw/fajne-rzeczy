@@ -12,7 +12,7 @@ W tym poradniku opiszę jak najszybciej zainstalować Docker na **czystym system
 
 Zakładam że masz dostęp do czystego systemu / maszyny wirtualnej / VPS ([o najtańszym serwerze VPS pisałem tu](../../kolekcje/tanie-hostingi#najta%C5%84szy-serwer-vps)) z zainstalowanym Ubuntu lub Debianem. W celu instalacji dockera wykorzystamy skrypt **install-docker.sh** z [get.docker.com](https://get.docker.com/).
 
-![](/fajne-rzeczy/blog/docker.jpg)
+![](/fajne-rzeczy/wpisy/docker.jpg)
 
 ## Instalacja Docker Desktop w Windows, Mac, Linux
 
