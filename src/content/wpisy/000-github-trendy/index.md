@@ -14,10 +14,10 @@ Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram 
 
 ## Maj 2024
 
-- [MAS (Microsoft Activation Toolkit)](https://github.com/massgravel/Microsoft-Activation-Scripts) - Zestaw otwartoźródłowych skryptów aktywacyjnych dla systemów Microsoft Windows oraz aplikacji z rodziny Microsoft Office. Do celów testowych 🤡
+- [MAS (Microsoft Activation Toolkit)](https://github.com/massgravel/Microsoft-Activation-Scripts) - Zestaw otwartoźródłowych skryptów aktywacyjnych dla systemów Microsoft Windows oraz aplikacji z rodziny Microsoft Office. Do celów naukowych, mechanizmy aktywacji windows są fascynujące, na pewno chcesz zgłębić ich działanie 🤡.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Zestaw narzędzi do pracy z plikami PDF przeznaczony do samo-hostowania. Zawiera wiele funkcji których nie znajdziecie w darmowym Acrobacie (a nawet takie których nie znajdziecie w płatnym 😉)
 - [PokeRogue](https://github.com/pagefaultgames/pokerogue) - PokéRogue to przeglądarkowa fanowska gra Pokémon, inspirowana gatunkiem roguelite. Walcz bez końca, zbierając przedmioty, eksploruj różne biomy, walcząc z trenerami, bossami i nie tylko! Hostuj sam lub [zagraj tu](https://pokerogue.net/) *a może nawet zrób kopie zanim Nintendo popsuje wszystkim zabawę*
-- [EasySpider](https://github.com/NaiboWang/EasySpider) - Darmowy wizualny scrapper od przyjaciół z chin, posiada angielską wersję językową i dokumentację na github. Interfejs przypomina popularnego Octoparse natomiast ten jest całkowicie darmowy, pozwala również eksportować i uruchamiać kod zdalnie (np. na VPS). [Więcej o scrappowaniu przeczytasz tu](../wpisy/001-web-scrapping)
+- [EasySpider](https://github.com/NaiboWang/EasySpider) - Darmowy wizualny scrapper od przyjaciół z chin, posiada angielską wersję językową i dokumentację na github. Interfejs przypomina popularnego Octoparse natomiast ten jest całkowicie darmowy, pozwala również eksportować i uruchamiać kod zdalnie (np. na VPS). [Więcej o scrappowaniu przeczytasz tu](../001-web-scrapping)
 - [Affine](https://github.com/toeverything/AFFiNE) - Własna baza wiedzy z dodatkami, alternatywa dla Notion lub Miro. Twórz, pisz i rysuj. System udostępniania, wirtualna tablica, wiele funkcji i komponentów. Zobacz też [Obsidian](https://obsidian.md/)
 
 ### AI (Deep Learning):
