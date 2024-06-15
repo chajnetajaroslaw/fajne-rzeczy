@@ -41,7 +41,8 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 ## 📂 Pliki
 
 ### Hostowanie
-- [NextCloud]() - Najlepsza darmowa usługa chmury plików, mnogość funckji i wtyczek pozwoli Ci dostosować ją do Twoich potrzeb.
+- [NextCloud](https://nextcloud.com/) - Najlepsza darmowa usługa chmury plików, mnogość funckji i wtyczek pozwoli Ci dostosować ją do Twoich potrzeb. Posiada wbudowane aplikacje pakietu office oraz serwer do współpracy w czasie rzeczywistym.
+- [CloudReve](https://github.com/cloudreve/Cloudreve) - Chińska (posiada język angielski) kopia GoogleDrive z mnogością funckji, zaawansowane zarządzanie plikami, udostępnianie, użytkownicy, grupy, uprawnienia, webDav, możliwość podłączenia wielu zewnętrznych storage jak np S3. Bardzo fajna alternatywa dla **NextClouda**
 - [AnonUpload](https://github.com/Supernova3339/anonupload) - Prosty skrypt do anonimowego uploadowania i hostowania plików działający 100% w PHP. 
 
 ### Synchronizacja
@@ -57,6 +58,18 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 ### Konteneryzacja:
 - [Dockge](https://github.com/louislam/dockge) - Darmowy panel do zarządzania stackami docker-compose ze świetnym UI. 
 - [Portainer](https://www.portainer.io/) - Komercyjny panel do zarządzania kontenerami uruchomionymi na systemie. Posiada [darmową wersję community edition](https://docs.portainer.io/start/install-ce), znacznie bardziej rozbudowany od poprzednika. 
+- [Dokemon](https://dokemon.dev/) - Nowa propozycja do zarządzania kontenerami z GUI, wygląda naprawdę interesująco, posiada więcej opcji niż Dockge, mniej niż Portainer.
 
 ### Monitorowanie:
 - [UptimeKuma](https://github.com/louislam/uptime-kuma) - Monitor PING z rozbudowanymi opcjami i powiadomieniami, darmowa alternatywa np. dla UptimeRobot
+
+---
+
+## 🗃️ Listy
+
+Duże listy aplikacji selfhosted, jeśli chce Ci się kopać to na pewno znajdziesz coś fajnego.
+
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Unraid Community Apps](https://unraid.net/community/apps)
+- [Portainer Templates](https://portainer-templates.as93.net/)
+- [EasyPanel Templates](https://easypanel.io/templates)
