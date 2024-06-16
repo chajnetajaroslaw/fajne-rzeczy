@@ -42,8 +42,12 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 ### Hostowanie
 - [NextCloud](https://nextcloud.com/) - Najlepsza darmowa usługa chmury plików, mnogość funckji i wtyczek pozwoli Ci dostosować ją do Twoich potrzeb. Posiada wbudowane aplikacje pakietu office oraz serwer do współpracy w czasie rzeczywistym.
-- [CloudReve](https://github.com/cloudreve/Cloudreve) - Chińska (posiada język angielski) kopia GoogleDrive z mnogością funckji, zaawansowane zarządzanie plikami, udostępnianie, użytkownicy, grupy, uprawnienia, webDav, możliwość podłączenia wielu zewnętrznych storage jak np S3. Bardzo fajna alternatywa dla **NextClouda**
+- [CloudReve](https://github.com/cloudreve/Cloudreve) - Chińska (posiada język angielski) kopia **GoogleDrive** z mnogością funckji jak zaawansowane zarządzanie plikami, udostępnianie, użytkownicy, grupy, uprawnienia, webDav, możliwość podłączenia wielu zewnętrznych storage jak np S3. Bardzo fajna mniejsza alternatywa dla **NextClouda**
 - [AnonUpload](https://github.com/Supernova3339/anonupload) - Prosty skrypt do anonimowego uploadowania i hostowania plików działający 100% w PHP. 
+
+### Zarządzanie / File Managery
+
+- [hurlenko/filebrowser](https://hub.docker.com/r/hurlenko/filebrowser) - Konfigurowany manager plików, świetne uzupełnienie Twojego stacku compose kiedy potrzebujesz zarządzać plikami.  
 
 ### Synchronizacja
 - [Syncthing](https://syncthing.net/) - program do synchronizacji plików / folderów pomiędzy dwoma lub więcej urządzeniami, pozwala na zaawansowaną konfigurację, wersjonowanie plików itp. 
