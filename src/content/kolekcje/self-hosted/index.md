@@ -63,6 +63,7 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 - [Dockge](https://github.com/louislam/dockge) - Darmowy panel do zarządzania stackami docker-compose ze świetnym UI. 
 - [Portainer](https://www.portainer.io/) - Komercyjny panel do zarządzania kontenerami uruchomionymi na systemie. Posiada [darmową wersję community edition](https://docs.portainer.io/start/install-ce), znacznie bardziej rozbudowany od poprzednika. 
 - [Dokemon](https://dokemon.dev/) - Nowa propozycja do zarządzania kontenerami z GUI, wygląda naprawdę interesująco, posiada więcej opcji niż Dockge, mniej niż Portainer.
+- [LazyDocker](https://github.com/jesseduffield/lazydocker) - Alternatywa dla selfhostowanych przeglądarkowych GUI, wygodny interfejs do zarządzania kontenerami dostępny z poziomu terminala, bez wystawiania dodatkowej usługi. (w sumie nie selfhosted ale nie miałem gdzie wrzucić).
 
 ### Monitorowanie:
 - [UptimeKuma](https://github.com/louislam/uptime-kuma) - Monitor PING z rozbudowanymi opcjami i powiadomieniami, darmowa alternatywa np. dla UptimeRobot
