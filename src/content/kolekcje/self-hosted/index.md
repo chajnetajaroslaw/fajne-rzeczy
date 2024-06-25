@@ -73,7 +73,8 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 Duże listy aplikacji selfhosted, jeśli chce Ci się kopać to na pewno znajdziesz coś fajnego.
 
-- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Unraid Community Apps](https://unraid.net/community/apps)
-- [Portainer Templates](https://portainer-templates.as93.net/)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Największe repozytorium z apliacjami self-hosted na github.
+- [Selfh.st](https://selfh.st/apps/) - Duża lista aplikacji self-hosted w formie strony.
+- [Unraid Community Apps](https://unraid.net/community/apps) - Appstore UNRAID'a (dystrybucji linux)
+- [Portainer Templates](https://portainer-templates.as93.net/) - Lista aplikacji i templatek dla Portainer'a (UI do zarządzania dockerem) 
 - [EasyPanel Templates](https://easypanel.io/templates)
