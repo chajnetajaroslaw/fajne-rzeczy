@@ -8,7 +8,7 @@ date: "2024-06-01"
 
 Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram się aktualizować raz w miesiącu.
 
-Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowały (np. miały duże aktualizacje). To okazja by spisać i odkryć nowe **fajne rzeczy** i przypomnieć sobie te już znane.
+Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowały (np. miały duże aktualizacje). To okazja by spisać i odkryć nowe 🚀 **fajne rzeczy** i przypomnieć sobie te już znane.
 
 (*PS. aplikacje AI wrzucam w osobnej sekcji bo jest ich bardzo dużo* 🤮)
 
