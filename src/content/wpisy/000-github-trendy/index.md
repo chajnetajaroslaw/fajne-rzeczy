@@ -4,7 +4,7 @@ description: "Najciekawsze repozytoria wybrane spośród trendów społeczności
 date: "2024-06-01"
 ---
 
-## Co miesięczna dawka świeżych repozytoriów. 
+## Co miesiąc świeża dawka repozytoriów. 
 
 Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram się aktualizować raz w miesiącu.
 
