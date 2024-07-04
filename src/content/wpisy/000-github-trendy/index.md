@@ -16,8 +16,8 @@ Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowa
 
 - [Coolify](https://github.com/coollabsio/coolify) - Darmowa alternatywa dla hostingów serverless jak Netlify, Heroku czy Vercel do samodzielnego hostowania, bogata w funkcjonalności. 
 - [SerenityOS](https://github.com/SerenityOS/serenity) - List miłosny do OS'ów z lat 90. Połączenie estetyki systemów z późnych lat 90 z funkcjonalnością tych z początku 2000. Dodatkowo musisz zbudować go sam 😉
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Kolejna ciekawa open source'owa dla Notion
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Zestaw skórek i usprawnień do powershella, pozwól mu być pięknym.
-
 - [WWeb.JS](https://github.com/pedroslopez/whatsapp-web.js) - Biblioteka javascript do obsługi klienta Whatsapp, pozwala w prosty sposób tworzyć nieoficjalne boty. (wykorzystuje puppeteer i WhatsApp web browser app) 
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - "Zbuduj swoje COŚ" zestaw programistycznych poradników w j. angielskim jak zbudować i wdrożyć konkretne rozwiązania, reverse engineering wielu kluczowych technologii.
 
