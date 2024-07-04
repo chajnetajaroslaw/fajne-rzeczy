@@ -63,6 +63,7 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 - [Dockge](https://github.com/louislam/dockge) - Darmowy panel do zarządzania stackami docker-compose ze świetnym UI. 
 - [Portainer](https://www.portainer.io/) - Komercyjny panel do zarządzania kontenerami uruchomionymi na systemie. Posiada [darmową wersję community edition](https://docs.portainer.io/start/install-ce), znacznie bardziej rozbudowany od poprzednika. 
 - [Dokemon](https://dokemon.dev/) - Nowa propozycja do zarządzania kontenerami z GUI, wygląda naprawdę interesująco, posiada więcej opcji niż Dockge, mniej niż Portainer.
+- [LazyDocker](https://github.com/jesseduffield/lazydocker) - Alternatywa dla selfhostowanych przeglądarkowych GUI, wygodny interfejs do zarządzania kontenerami dostępny z poziomu terminala, bez wystawiania dodatkowej usługi. (w sumie nie selfhosted ale nie miałem gdzie wrzucić).
 
 ### Monitorowanie:
 - [UptimeKuma](https://github.com/louislam/uptime-kuma) - Monitor PING z rozbudowanymi opcjami i powiadomieniami, darmowa alternatywa np. dla UptimeRobot
@@ -73,7 +74,8 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 
 Duże listy aplikacji selfhosted, jeśli chce Ci się kopać to na pewno znajdziesz coś fajnego.
 
-- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Unraid Community Apps](https://unraid.net/community/apps)
-- [Portainer Templates](https://portainer-templates.as93.net/)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Największe repozytorium z apliacjami self-hosted na github.
+- [Selfh.st](https://selfh.st/apps/) - Duża lista aplikacji self-hosted w formie strony.
+- [Unraid Community Apps](https://unraid.net/community/apps) - Appstore UNRAID'a (dystrybucji linux)
+- [Portainer Templates](https://portainer-templates.as93.net/) - Lista aplikacji i templatek dla Portainer'a (UI do zarządzania dockerem) 
 - [EasyPanel Templates](https://easypanel.io/templates)
