@@ -15,6 +15,7 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Mantine](https://mantine.dev/) - ponad 100 komponentów i 50 hooków by szybko tworzyć funckjonalne interfejsy.
 - [DaisyUI](https://daisyui.com/) - Biblioteka w formie wtyczki do Tailwind, zawiera wiele przydatnych komponentów.
 - [Magic UI](https://magicui.design/) - Zestaw animowanych (framer-motion) "magicznych" komponentów. Dobrze komponuje się z Shadcn.
+- [Eldora UI](https://www.eldoraui.site/) - Kolejny zestaw nietypowych elementów, na stronie znajdziesz też bardzo efektowne templatki stron w next.js.
 
 ## Pozostałe biblioteki:
 
@@ -22,3 +23,4 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Driver.js](https://driverjs.com/) - Dodaj łatwo animowane przewodniki / samouczki do Twojej aplikacji.
 - [Tauri](https://tauri.app/) - Przenieś swoją aplikację z przeglądarki na desktopy. Dużo szybsza i lżejsza alternatywa dla Electrona napisana w RUST (wystarczy znajomość JS). Posiada rozbudowane natwne API, autoupdater itp.
 - [Vite-pwa](https://vite-pwa-org.netlify.app/) - Szybka integracja by zamienić Twoją aplikację Vite w Progressive Web App, zalety to między innymi działanie offline, możliwość instalacji na ekranie głównym urządzeń, zwiększenie prędkości wczytywania.
+- [Swapy](https://swapy.tahazsh.com/) - Biblioteka do tworzenia "przeciągalnych" interfejsów. (np. jeśli potrzebujesz funkcjonalności układania i zmiany kolejności widgetów w aplikacji)
