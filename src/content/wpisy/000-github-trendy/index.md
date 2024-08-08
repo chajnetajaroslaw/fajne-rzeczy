@@ -1,5 +1,5 @@
 ---
-title: "🔥 Best of Github (Czerwiec 2024)"
+title: "🔥 Best of Github (Sierpień 2024)"
 description: "Najciekawsze repozytoria wybrane spośród trendów społeczności."
 date: "2024-06-01"
 ---
@@ -11,6 +11,17 @@ Przedstawiam **najciekawsze** (moim zdaniem) **repozytoria z Github**, postaram 
 Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowały (np. miały duże aktualizacje). To okazja by spisać i odkryć nowe 🚀 **fajne rzeczy** oraz przypomnieć sobie te już znane.
 
 (*PS. aplikacje AI wrzucam w osobnej sekcji bo jest ich bardzo dużo* 🤮)
+
+## Siepień / Lipiec 2024
+
+(W lipcu nie miałem czasu zaktualizować listy, więc zbiorowo)
+
+- [ChristianLempa Boilerplates](https://github.com/ChristianLempa/boilerplates) - Kolekcja szablonów i konfiguracji do najpopularniejszych narzędzi dla sysadminów. (Docker, Ansible, Kubernetes, Terraform, Kestra etc.) Bardzo przydatne, dobry punkt wyjścia. [Polecam też kanał na youtube Christiana](https://www.youtube.com/@christianlempa).
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Świetna darmowa platforma edukacyjna do nauki programowania.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - rozbudowane narzędzie commandline do pobierania filmów / audio z youtube.
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Skaner do repozytoriów pozwalający znaleźć wycieki kluczy API / haseł / danych uwierzytelniających.
+- [bun](https://github.com/oven-sh/bun) - Alternatywny runtime javascript. Kompatybilny z Node.js ale nawet 10x szybszy. Wiele dodatkowych funkcji. 
+
 
 ## Czerwiec 2024
 
