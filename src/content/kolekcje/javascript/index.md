@@ -1,12 +1,12 @@
 ---
 title: "☕ JavaScript DOJO "
 description: " React, Fullstack, Biblioteki, Wiedza i inne ciekawostki ze świata JS. "
-date: "2024-05-10"
+date: "2024-06-03"
 demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
 
-Javascript to fascynujący język, codziennie powstaje 5 nowych frameworków, wszystko musisz złożyć sobie sam, a **Nan** to nie jest **Nan** (inne (absurdy znajdziesz tu)[https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#nan-is-not-a-nan]). Zawartość targetowana głównie na Reacta (choć trochę romansuję na boku ze Svelte), raczej dla osób średnio-zaawansowanych. Na dole specjalna sekcja dla początkujących.
+Javascript to fascynujący język, codziennie powstaje 5 nowych frameworków, na **npm** znajduje się ponad 3.1 miliona bibliotek, a [**Nan** to nawet nie jest **Nan**](https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#nan-is-not-a-nan). Zawartość nastawiona głównie na Reacta (choć trochę romansuję na boku ze Svelte), raczej dla osób średnio-zaawansowanych. Na dole specjalna sekcja dla początkujących.
 
 ## UI Libraries
 
