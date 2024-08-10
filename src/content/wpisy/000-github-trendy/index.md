@@ -1,7 +1,7 @@
 ---
 title: "🔥 Best of Github (Sierpień 2024)"
 description: "Najciekawsze repozytoria wybrane spośród trendów społeczności."
-date: "2024-06-01"
+date: "2024-08-10"
 ---
 
 ## Co miesiąc świeża dawka repozytoriów.
@@ -16,6 +16,7 @@ Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowa
 
 (W lipcu nie miałem czasu zaktualizować listy, więc zbiorowo)
 
+- [DeepLiveCam](https://github.com/hacksider/Deep-Live-Cam) - Zamiana twarzy z wykorzystaniem AI w czasie rzeczywistym (ale pewnie nie na Twoim komputerze). [Efekty są imponujące](https://github.com/hacksider/Deep-Live-Cam/blob/main/demo.gif).
 - [ChristianLempa Boilerplates](https://github.com/ChristianLempa/boilerplates) - Kolekcja szablonów i konfiguracji do najpopularniejszych narzędzi dla sysadminów. (Docker, Ansible, Kubernetes, Terraform, Kestra etc.) Bardzo przydatne, dobry punkt wyjścia. [Polecam też kanał na youtube Christiana](https://www.youtube.com/@christianlempa).
 - [Win11React](https://github.com/blueedgetechno/win11React) - Interfejs windowsa 11 odtworzony w React. [Zobacz w swojej przeglądarce](https://win11.blueedge.me/). PS: zobacz też [Windows XP w React](https://winxp.vercel.app/).
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Świetna darmowa platforma edukacyjna do nauki programowania.
