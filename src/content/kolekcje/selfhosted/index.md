@@ -69,6 +69,9 @@ Tutaj wybór jest znacznie większy a dostępne aplikacje posiadają ciekawe fun
 - [UptimeKuma](https://github.com/louislam/uptime-kuma) - Monitor PING z rozbudowanymi opcjami i powiadomieniami, darmowa alternatywa np. dla UptimeRobot
 
 ---
+## 📨 Mailing:
+
+- [Plunk](https://github.com/useplunk/plunk) - Open-source'owa alternatywa dla serwisów jak Mailgun, Sendgrid czy Resend działająca w oparciu AWS SES czyli prawdopodobnie najtańszą opcję do wysyłania mailingu na dużą skalę (np. newslettery, raporty czy linki aktywacyjne).
 
 ## 🗃️ Listy
 
