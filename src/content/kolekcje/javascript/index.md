@@ -21,6 +21,11 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Eldora UI](https://www.eldoraui.site/) - Kolejny zestaw nietypowych elementów, na stronie znajdziesz też bardzo efektowne templatki stron w next.js.
 - [motion-primitives](https://motion-primitives.com/) - I jeszcze jeden zestaw animowanych elementów z naprawdę ciekawymi komponentami.
 
+## Galerie
+
+- [lightGallery](https://www.lightgalleryjs.com/) - Biblioteka do tworzenia galerii obrazów w stylu lightbox.
+- [FancyBox (Fancyapps)](https://fancyapps.com/fancybox/) - Wyświetlaj galerie obrazów w stylu lightbox, twórz karuzele (slidery) ze zdjęciami.
+
 ## Pozostałe biblioteki
 
 - [Zustand](https://zustand-demo.pmnd.rs/) - Mała, szybka i prosta biblioteka state store do React. 
@@ -28,12 +33,6 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Tauri](https://tauri.app/) - Przenieś swoją aplikację z przeglądarki na desktopy. Dużo szybsza i lżejsza alternatywa dla Electrona napisana w RUST (wystarczy znajomość JS). Posiada rozbudowane natwne API, autoupdater itp.
 - [Vite-pwa](https://vite-pwa-org.netlify.app/) - Szybka integracja by zamienić Twoją aplikację Vite w Progressive Web App, zalety to między innymi działanie offline, możliwość instalacji na ekranie głównym urządzeń, zwiększenie prędkości wczytywania.
 - [Swapy](https://swapy.tahazsh.com/) - Biblioteka do tworzenia "przeciągalnych" interfejsów. (np. jeśli potrzebujesz funkcjonalności układania i zmiany kolejności widgetów w aplikacji)
-
-## Galerie
-
-- [lightGallery](https://www.lightgalleryjs.com/) - Biblioteka do tworzenia galerii obrazów w stylu lightbox.
-- [FancyBox (Fancyapps)](https://fancyapps.com/fancybox/) - Wyświetlaj galerie obrazów w stylu lightbox, twórz karuzele (slidery) ze zdjęciami.
-
 
 ## Dla początkujących
 
