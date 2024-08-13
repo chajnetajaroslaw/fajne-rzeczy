@@ -15,6 +15,7 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Shadcn](https://ui.shadcn.com/) - Jedna z ulubionych bibliotek UI społeczności, pyszna w połączeniu z NextJS / React, od niedawna posiada gotowe sekcje (Blocks) oraz piękne, animowane wykresy.
 - [FrankenUI](https://franken-ui.dev/) - Mamo chce shadcn. Kochanie mamy shadcn w domu. Podobna wizualnie biblioteka z dużą ilością ciekawych komponentów.
 - [Mantine](https://mantine.dev/) - ponad 100 komponentów i 50 hooków by szybko tworzyć funckjonalne interfejsy.
+- [MerakiUI](https://merakiui.com/) - Kolejna ciekawa biblioteka komponentów do Tailwind.
 - [DaisyUI](https://daisyui.com/) - Biblioteka w formie wtyczki do Tailwind, zawiera wiele przydatnych komponentów.
 - [Magic UI](https://magicui.design/) - Zestaw animowanych (framer-motion) "magicznych" komponentów. Dobrze komponuje się z Shadcn.
 - [Eldora UI](https://www.eldoraui.site/) - Kolejny zestaw nietypowych elementów, na stronie znajdziesz też bardzo efektowne templatki stron w next.js.
