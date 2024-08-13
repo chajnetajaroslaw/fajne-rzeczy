@@ -29,6 +29,12 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Vite-pwa](https://vite-pwa-org.netlify.app/) - Szybka integracja by zamienić Twoją aplikację Vite w Progressive Web App, zalety to między innymi działanie offline, możliwość instalacji na ekranie głównym urządzeń, zwiększenie prędkości wczytywania.
 - [Swapy](https://swapy.tahazsh.com/) - Biblioteka do tworzenia "przeciągalnych" interfejsów. (np. jeśli potrzebujesz funkcjonalności układania i zmiany kolejności widgetów w aplikacji)
 
+## Galerie
+
+- [lightGallery](https://www.lightgalleryjs.com/) - Biblioteka do tworzenia galerii obrazów w stylu lightbox.
+- [FancyBox (Fancyapps)](https://fancyapps.com/fancybox/) - Wyświetlaj galerie obrazów w stylu lightbox, twórz karuzele (slidery) ze zdjęciami.
+
+
 ## Dla początkujących
 
 ### Darmowe
