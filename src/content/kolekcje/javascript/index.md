@@ -20,6 +20,9 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Magic UI](https://magicui.design/) - Zestaw animowanych (framer-motion) "magicznych" komponentów. Dobrze komponuje się z Shadcn.
 - [Eldora UI](https://www.eldoraui.site/) - Kolejny zestaw nietypowych elementów, na stronie znajdziesz też bardzo efektowne templatki stron w next.js.
 - [motion-primitives](https://motion-primitives.com/) - I jeszcze jeden zestaw animowanych elementów z naprawdę ciekawymi komponentami.
+- [cult/ui](https://www.cult-ui.com/) - Kolejny zestaw dynamicznych animowanych elementów 
+
+(Muszę chyba zrobić osobną kolekcję na biblioteki UI 😅)
 
 ## Galerie
 
