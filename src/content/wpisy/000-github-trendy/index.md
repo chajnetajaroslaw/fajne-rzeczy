@@ -12,6 +12,12 @@ Repozytoria które tu znajdziesz nie są nowe, po prostu w danym czasie trendowa
 
 (_PS. aplikacje AI wrzucam w osobnej sekcji bo jest ich bardzo dużo_ 🤮)
 
+## Styczeń 2025
+
+Po dłuższej przerwie czas na akutalizację
+
+- [Wave Term](https://github.com/wavetermdev/waveterm) - Open source'owy terminal na sterydach z widżetami. Wbudowany chatGPT, monitor zaobów, file explorer, przeglądarka. Wspira wiele platform.
+
 ## Siepień / Lipiec 2024
 
 (W lipcu nie miałem czasu zaktualizować listy, więc zbiorowo)
