@@ -21,6 +21,7 @@ Twórz funckjonalne i dobrze wyglądające interfejsy użytkownika 10x szybciej.
 - [Eldora UI](https://www.eldoraui.site/) - Kolejny zestaw nietypowych elementów, na stronie znajdziesz też bardzo efektowne templatki stron w next.js.
 - [motion-primitives](https://motion-primitives.com/) - I jeszcze jeden zestaw animowanych elementów z naprawdę ciekawymi komponentami.
 - [cult/ui](https://www.cult-ui.com/) - Kolejny zestaw dynamicznych animowanych elementów 
+- [ReactBits](https://www.reactbits.dev/animations/magnet-lines) - I jeszcze jeden na dokładkę, posiada kilka oryginalnych komponentów z którymi warto się zapoznać.
 
 (Muszę chyba zrobić osobną kolekcję na biblioteki UI 😅)
 
