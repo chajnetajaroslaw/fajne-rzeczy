@@ -60,4 +60,5 @@ Kiedy miałeś 5 lat rodzice mówili że ładnie rysujesz, jednak rzeczywistoś�
 
 ## Programowanie / Webdev
 
+- [Maily](https://maily.to/playground) - Open-Source'owy wizualny edytor szablonów mail.
 - [httpie](https://httpie.io) - Prawdziwe ciasteczko, **prosty i intuicyjny program do wysyłania zapytań http do testowania API**, fajny zamiennik dla Postmana.
